@@ -22,4 +22,5 @@ Just bring your laptop running Windows with Visual Studio 2017. You will need an
 
 ## Note:
  - A remote desktop in Azure will **not work** as you need to access the local network
+ - If you have a Mac, a Virtual Machine with the above requirement can work.
 
