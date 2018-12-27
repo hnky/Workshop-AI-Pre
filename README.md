@@ -2,7 +2,7 @@
 Just bring your laptop running Windows with Visual Studio 2017. You will need an Azure subscription to activate the Cognitive Services APIs, if you don’t have one please create one before the workshop. If you have your own Raspberry Pi and USB camera, please bring them, if not you can borrow one from us.
 
 ### Bring a laptop running
-- Windows 10 - Version	10.0.17134 Build 17134 (with Administrator access)
+- Windows 10 - Version	10.0.17134 Build 17134 (Or higher) (with Administrator access)
 - Visual Studio 2017 -  (version 15.7.4) (with workloads: Universal Windows Platform development / Azure development)
 - Latest UWP SDK (1803) [Installer](https://developer.microsoft.com/nl-nl/windows/downloads/windows-10-sdk)
 - Install the Windows IOT Core Dashboard [Download](http://go.microsoft.com/fwlink/?LinkID=708576)
