@@ -7,4 +7,5 @@
 * [Pi-Dish voor Raspberry Pi Inclusief Breadbord](https://www.sossolutions.nl/adafruit-pi-dish-voor-raspberry-pi) or [Breadbord Only](https://www.adafruit.com/product/239)
 * [Diffused RGB (tri-color) 10mm LED](http://www.adafruit.com/products/848) 
 * [Tactile Button switch (6mm)](http://www.adafruit.com/products/367)
+* [3mm LED Diffuus - Yellow](https://www.kiwi-electronics.nl/3mm-diffuus-geel-10-pack)
 * USB Camera with Microphone [Microsoft Lifecam](https://www.microsoft.com/accessories/nl-nl/products/webcams/lifecam-cinema/h5d-00015#devkit-highlights)
