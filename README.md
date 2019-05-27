@@ -1,3 +1,5 @@
+*Always check this page before you join the workshop as it might change prior to the workshop!*
+
 ## What to bring
 Just bring your laptop running Windows with Visual Studio 2017. You will need an Azure subscription to activate the Cognitive Services APIs, if you don’t have one please create one before the workshop. If you have your own Raspberry Pi and USB camera, please bring them, if not you can borrow one from us. 
 
