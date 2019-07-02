@@ -1,3 +1,5 @@
+*This list is NOT up to date, please come back later*
+
 # Hardware list for the workshop
 
 * [Raspberry Pi 3 - Model B](https://www.adafruit.com/product/3055)
