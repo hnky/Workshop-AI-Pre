@@ -1,7 +1,11 @@
 *Always check this page before you join the workshop as it might change prior to the workshop!*
 
-## What to bring
-Just bring your laptop running Windows with Visual Studio 2017. You will need an Azure subscription to activate the Cognitive Services APIs, if you don’t have one please create one before the workshop. If you have your own Raspberry Pi and USB camera, please bring them, if not you can borrow one from us. 
+# Build your own AI powered robot
+
+
+
+## What to bring 
+Just bring your laptop running Windows with Visual Studio 2019. You will need an Azure subscription to activate the Cognitive Services APIs, if you don’t have one please create one before the workshop. 
 
 #### If you bring your own hardware
 See the [complete hardware list here](hardware.md) and install the latest version of Windows IoT core on the RaspBerry Pi
