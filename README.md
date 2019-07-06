@@ -20,6 +20,8 @@ See the [complete hardware list here](hardware.md) and install the latest versio
 ## Use our IoT kit
 Just bring your laptop running Windows 10 with Visual Studio 2019. You will need an Azure subscription to activate the Cognitive Services APIs, if you don’t have one please create one before the workshop. 
 
+Our kit runs on a Raspberry PI3 with Windows IoT core. [Check out what is in the kit](hardware.md).
+
 ### Bring a laptop running
 - Windows 10 - Version	10.0.17134 Build 17134 (Or higher) (with Administrator access)
 - Visual Studio 2017 - (version 15.7.4 0r higher) (with workloads: Universal Windows Platform development / Azure development)
