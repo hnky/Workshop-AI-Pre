@@ -5,19 +5,32 @@
 Welcome to the AI workshop and nice you might be joining!
 
 During this workshop we have 2 paths you can follow. Both have pre-requirements!
-* **Use our IoT kit** 
-Use on of the IoT kits I bring (I have 12, so you might be ending up sharing one or the workshop is full)
-* **Bring your own**
+* **Option 1 - Bring your own**
 You can perfectly follow the workshop by bringing your own stuff.
-
-## Bring your own
-
-#### If you bring your own hardware
-See the [complete hardware list here](hardware.md) and install the latest version of Windows IoT core on the RaspBerry Pi
+* **Option 2 - Use our IoT kit** 
+Use on of the IoT kits I bring (I have 12, so you might be ending up sharing one or the workshop is full)
 
 
+## Option 1 - Bring your own hardware
+You can perfectly follow the workshop if you bring your own hardware. We have the workshop available in Windows IoT and Raspbian running .NET Core. Windows IoT only runs on a Raspberry Pi 3B not the 3B+ and 4.
 
-## Use our IoT kit
+#### What to bring (required)
+* Raspberry Pi 3B / 3B+ or 4
+* Power Supply
+* Memorycard with a fresh install of [Raspbian Buster Lite](https://www.raspberrypi.org/downloads/raspbian/)
+* USB Camera
+* Mini Jack Headphone
+
+#### What to bring (option)
+* USB Mic
+* [PIR (motion) sensor](http://www.adafruit.com/products/189)
+* [Diffused RGB (tri-color) 10mm LED](http://www.adafruit.com/products/848) 
+* [3mm LED Diffuus - Yellow](https://www.kiwi-electronics.nl/3mm-diffuus-geel-10-pack)
+
+
+## Option 2 - Use our IoT kit
+You can use our IoT kit during the workshop, I have 12 with me. You might up ending sharing with someone else or the workshop is full. Make sure you have taken the time to meet the pre-requirements.
+
 Just bring your laptop running Windows 10 with Visual Studio 2019. You will need an Azure subscription to activate the Cognitive Services APIs, if you don’t have one please create one before the workshop. 
 
 Our kit runs on a Raspberry PI3 with Windows IoT core. [Check out what is in the kit](hardware.md).
