@@ -36,7 +36,7 @@ Just bring your laptop running Windows 10 with Visual Studio 2019. You will need
 Our kit runs on a Raspberry PI3 with Windows IoT core. [Check out what is in the kit](hardware.md).
 
 ### Bring a laptop running
-- Windows 10 - Version	10.0.17134 Build 17134 (Or higher) (with Administrator access)
+- Windows 10 - Version	10.0.18362 Build 18362 (Or higher) (with Administrator access)
 - Visual Studio 2017 - (version 15.7.4 0r higher) (with workloads: Universal Windows Platform development / Azure development)
 - Latest UWP SDK (1803) [Installer - NL](https://developer.microsoft.com/nl-nl/windows/downloads/windows-10-sdk) /
 [Installer - EN](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
