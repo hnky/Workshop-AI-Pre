@@ -21,7 +21,7 @@ You can perfectly follow the workshop if you bring your own hardware. We have th
 * USB Camera
 * Mini Jack Headphone
 
-#### What to bring (option)
+#### What to bring (optional)
 * USB Mic
 * [PIR (motion) sensor](http://www.adafruit.com/products/189)
 * [Diffused RGB (tri-color) 10mm LED](http://www.adafruit.com/products/848) 
