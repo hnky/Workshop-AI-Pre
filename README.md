@@ -38,7 +38,7 @@ Our kit runs on a Raspberry PI3 with Windows IoT core. [Check out what is in the
 ### Bring a laptop running
 - Windows 10 - Version	10.0.18362 Build 18362 (Or higher) (with Administrator access)
 - Visual Studio 2017 - (version 15.7.4 0r higher) (with workloads: Universal Windows Platform development / Azure development)
-- Latest UWP SDK (1803) [Installer - NL](https://developer.microsoft.com/nl-nl/windows/downloads/windows-10-sdk) /
+- Latest UWP SDK (1903) [Installer - NL](https://developer.microsoft.com/nl-nl/windows/downloads/windows-10-sdk) /
 [Installer - EN](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
 - Install the Windows IOT Core Dashboard [Download](http://go.microsoft.com/fwlink/?LinkID=708576)
 
