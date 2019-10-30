@@ -37,7 +37,7 @@ You can use our IoT kit during the workshop, I have 25 with me. You might up end
 
 Our kit runs on a Raspberry PI3 with Windows IoT core. [Check out what is in the kit](hardware.md).
 
-## Option 2 - Bring your own**
+## Option 2 - Bring your own (Advanced)
 You can perfectly follow the workshop if you bring your own hardware. We have the workshop available in Windows IoT and Raspbian running .NET Core. Windows IoT only runs on a Raspberry Pi 3B not the 3B+ and 4.
 
 ### Raspbian/Python path
