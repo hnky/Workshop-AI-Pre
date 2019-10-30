@@ -40,7 +40,9 @@ Our kit runs on a Raspberry PI3 with Windows IoT core. [Check out what is in the
 ## Option 2 - Bring your own**
 You can perfectly follow the workshop if you bring your own hardware. We have the workshop available in Windows IoT and Raspbian running .NET Core. Windows IoT only runs on a Raspberry Pi 3B not the 3B+ and 4.
 
-#### What to bring (required)
+### Raspbian/Python path
+
+#### What to bring for the (required)
 * Raspberry Pi 3B / 3B+ or 4
 * Power Supply
 * Memorycard with a fresh install of [Raspbian Buster Lite](https://www.raspberrypi.org/downloads/raspbian/)
@@ -52,6 +54,9 @@ You can perfectly follow the workshop if you bring your own hardware. We have th
 * [PIR (motion) sensor](http://www.adafruit.com/products/189)
 * [Diffused RGB (tri-color) 10mm LED](http://www.adafruit.com/products/848) 
 * [3mm LED Diffuus - Yellow](https://www.kiwi-electronics.nl/3mm-diffuus-geel-10-pack)
+
+## Windows IoT / C# Path
+Our kit runs on a Raspberry PI3 with Windows IoT core. [Check out what is in the kit](hardware.md).
 
 If you have any questions before the workshop, you can create an Issue of tweet met at @hboelman.
 
