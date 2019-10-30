@@ -1,6 +1,4 @@
-*This list is NOT up to date, please come back later*
-
-# Hardware list for the workshop
+# Hardware list for the workshop for Windows IoT / C#
 
 * [Raspberry Pi 3 - Model B](https://www.adafruit.com/product/3055)
 * Raspberry Pi 2.5A power [Amazon](https://www.amazon.com/Official-Raspberry-Foundation-Power-Supply/dp/B01LCNF8FU) | [SosSolutions (NL)](https://www.sossolutions.nl/originele-raspberry-pi-foundation-2-5a-voeding-met-4-pluggen)
