@@ -2,11 +2,11 @@
 
 # Build your own AI powered robot
 
-Welcome to the AI workshop and nice you might be joining!
+Welcome to the AI workshop and nice you might be joining! Please take a minute to read this document, it will make you workshop day way more fun!
 
 During this workshop we have 2 paths you can follow. Both have pre-requirements!
 
-## Option 1 - Use our IoT kit (Preferred)** 
+## Option 1 - Use our IoT kit (Preferred)
 You can use our IoT kit during the workshop, I have 25 with me. You might up ending sharing with someone else or the workshop is full. Make sure you have taken the time to meet the pre-requirements.
 
 *Please install everything on your laptop before the workshop, WiFi might be very slow.*
