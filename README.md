@@ -14,12 +14,12 @@ You can use our IoT kit during the workshop, I have 25 with me. You might up end
 ### Bring a laptop running
 - Windows 10 - Version	10.0.18362 Build 18362 (Or higher) (with Administrator access)
 - Visual Studio 2017 - (version 15.7.4 0r higher) (with workloads: Universal Windows Platform development / Azure development)
-- Latest UWP SDK (> 1903) [Installer - NL](https://developer.microsoft.com/nl-nl/windows/downloads/windows-10-sdk) /
-[Installer - EN](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk)
-- Install the Windows IoT Core Dashboard [Download](http://go.microsoft.com/fwlink/?LinkID=708576)
+- Latest UWP SDK (> 1903) [Installer - NL](https://developer.microsoft.com/windows/downloads/windows-10-sdk?WT.mc_id=aiml-0000-heboelma) /
+[Installer - EN](https://developer.microsoft.com/windows/downloads/windows-10-sdk?WT.mc_id=aiml-0000-heboelma)
+- Install the Windows IoT Core Dashboard [Download](https://go.microsoft.com/fwlink/?LinkID=708576&WT.mc_id=aiml-0000-heboelma)
 
 ### Others requirements
- - An Azure Subscription. [You can create one here](https://azure.microsoft.com/en-us/free/). *If you don't have one I will bring some Azure Passes with me*
+ - An Azure Subscription. [You can create one here](https://azure.microsoft.com/free/?WT.mc_id=aiml-0000-heboelma). *If you don't have one I will bring some Azure Passes with me*
  - Some C# Knowledge *(it is not a copy / paste workshop)*
  - Headphones (with a mini jack)
  
